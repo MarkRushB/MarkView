@@ -1,20 +1,20 @@
 {
 	"version": 3,
 	"file": "critical.css",
-	"sourceRoot": "/Users/markzhao/Documents/markview",
+	"sourceRoot": "/workspaces/markview",
 	"sources": [
-		"/Users/markzhao/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/critical.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_reset.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_font.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_typography.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_mixins.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_mixins.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_variables.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_mixins.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_base.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_partial/_nav.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_partial/_article.scss",
-		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_partial/_container.scss"
+		"/tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/critical.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_reset.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_font.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_typography.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_mixins.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_mixins.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_variables.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_mixins.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_core/_base.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_partial/_nav.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_partial/_article.scss",
+		"../../tmp/hugo_cache_node/modules/filecache/modules/pkg/mod/github.com/!sped0n/bridget/v2@v2.0.2/assets/scss/_partial/_container.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n@import '_core/reset';\n@import '_core/font';\n@import '_core/typography';\n@import '_core/mixins';\n@import '_variables';\n@import '_core/base';\n\n@import '_partial/nav';\n@import '_partial/article';\n@import '_partial/container';\n",
